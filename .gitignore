@@ -1,2 +1,4 @@
 best_model.pth
 /Task04_Hippocampus
+hippocampus_segmentation.onnx
+hippocampus_segmentation.onnx.data
